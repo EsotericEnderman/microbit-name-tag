@@ -1,6 +1,6 @@
 {
     "name": "name-tag",
-    "description": "",
+    "description": "A microbit project that displays text on the screen.",
     "dependencies": {
         "core": "*",
         "radio": "*",
