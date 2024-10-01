@@ -2,9 +2,7 @@
     "name": "name-tag",
     "description": "A microbit project that displays text on the screen.",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.ts",
