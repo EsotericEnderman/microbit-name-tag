@@ -2,7 +2,7 @@
 
 > A microbit project that displays text on the screen.
 
-> Open this page at [https://EsotericEnderman.github.io/name-tag/](https://EsotericEnderman.github.io/microbit-name-tag/)
+> Open this page at [https://EsotericEnderman.github.io/microbit-name-tag/](https://EsotericEnderman.github.io/microbit-name-tag/)
 
 ## Use as Extension
 
