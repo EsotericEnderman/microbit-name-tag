@@ -1,5 +1,7 @@
 # Microbit Name Tag
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > A microbit project that displays text on the screen.
 
 > Open this page at [https://EsotericEnderman.github.io/microbit-name-tag/](https://EsotericEnderman.github.io/microbit-name-tag/)
